@@ -67,6 +67,9 @@
     margin-bottom: 1rem;
     width: 100%;
 }
+.product-btn:hover {
+    opacity: 0.5;
+}
 /* BUTTONS END */
 .filter-btn:hover {
     opacity: 0.5;
