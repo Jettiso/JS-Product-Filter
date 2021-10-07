@@ -1,0 +1,124 @@
+{
+    "items": [
+    {   
+        "category": "sh",
+        "title": "Blue Sleeves",
+        "price": 20.00,
+        "image": "./images/sh/bluelongsleeve.jpg"
+    },
+    {   
+        "category": "sh",
+        "title": "Beige Hoodie",
+        "price": 31.99,
+        "image": "./images/sh/beigehoodie.jpg"
+    },
+    {   
+        "category": "sh",
+        "title": "Brown Sleeve",
+        "price": 20,
+        "image":  "./images/sh/brownsleeve.jpg"
+    },
+    {   
+        "category": "sh",
+        "title": "White Crew Shirt",
+        "price": 20,
+        "image":  "./images/sh/whitecrewshirt.jpg"
+    },
+    {   
+        "category": "ts",
+        "title": "Dark Blue Shirt",
+        "price": 10.99,
+        "image": "./images/tshirts/bluishpolo.jpg"
+    },
+    {   
+        "category": "ts",
+        "title": "Navy Shirt",
+        "price": 10.99,
+        "image": "./images/tshirts/cnecknavy.jpg"
+    },
+    {   
+        "category": "ts",
+        "title": "Grey Shirt",
+        "price": 10.99,
+        "image": "./images/tshirts/cneckssleeve.jpg"
+    },
+    {   
+        "category": "ts",
+        "title": "Black Shirt",
+        "price": 12.99,
+        "image": "./images/tshirts/dexcneck.png"
+    },
+    {   
+        "category": "jp",
+        "title": "Black Jeans",
+        "price": 14.99,
+        "image": "./images/jp/blackjeans.jpg"
+    },
+    {   
+        "category": "jp",
+        "title": "Black Pants",
+        "price": 18,
+        "image": "./images/jp/blackpants.png"
+    },
+    {   
+        "category": "jp",
+        "title": "Black Joggers",
+        "price": 13.99,
+        "image": "./images/jp/sflaneljogger.png"
+    },
+    {   
+        "category": "jp",
+        "title": "Grey Joggers",
+        "price": 13.99,
+        "image": "./images/jp/joggerpants.png"
+    },
+    {   
+        "category": "jp",
+        "title": "Dark Grey Joggers",
+        "price": 13.99,
+        "image": "./images/jp/crelaxedjogger.png"
+    },
+    {   
+        "category": "jp",
+        "title": "Grey Sweat Pants",
+        "price": 12,
+        "image": "./images/jp/sweatpants.png"
+    },
+    {   
+        "category": "ch",
+        "title": "Black Cap",
+        "price": 4.99,
+        "image": "./images/ch/blackcap.jpg"
+    },
+    {   
+        "category": "ch",
+        "title": "Black Sports Hat",
+        "price": 5,
+        "image": "./images/ch/blacksportshat.jpg"
+    },
+    {   
+        "category": "ch",
+        "title": "Black Stripe Cap",
+        "price": 8,
+        "image": "./images/ch/blackstripcap.jpg"
+    },
+    {   
+        "category": "ch",
+        "title": "Brown Corduroy Hat",
+        "price": 9.99,
+        "image": "./images/ch/browncorduroyhat.jpg"
+    },
+    {   
+        "category": "ch",
+        "title": "Navy Cap",
+        "price": 4.99,
+        "image": "./images/ch/navycap.jpg"
+    },
+    {   
+        "category": "ch",
+        "title": "Yellow Stripe Cap",
+        "price": 8,
+        "image": "./images/ch/yellowstripecap.jpg"
+    }
+    ]
+}
