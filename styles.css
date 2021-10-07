@@ -4,6 +4,21 @@
     margin: 0;
     box-sizing: border-box;
 }
+/* CUSTOM SCROLLBAR */
+::-webkit-scrollbar {
+    width: .8rem;
+}
+::-webkit-scrollbar-track {
+    background: hsla(0, 0%, 68%, 0.438);
+    margin-block: .5em;
+    border-radius: 100vw;
+}
+::-webkit-scrollbar-thumb{
+    background: linear-gradient(to bottom, #12c2e9, #c471ed, #f64f59);;
+    border-radius: 100vw;
+}
+
+/* CUSTOM SCROLLBAR END */
 .nav {
     display: flex;
     justify-content: center;
